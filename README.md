@@ -28,10 +28,9 @@ for i in range(1,n+1):
 
 ```
 ### OUTPUT
-```
+
 <img width="396" height="510" alt="image" src="https://github.com/user-attachments/assets/d547efbd-fc15-493d-aea4-ec6db7d4ea3e" />
 
-```
 ### RESULT
 
 Thus, the Python program to print even numbers from 1 to n was successfully executed and verified.
@@ -81,10 +80,10 @@ def absolute_value(num):
 ```
 
 ### OUTPUT
-```
+
 <img width="577" height="352" alt="image" src="https://github.com/user-attachments/assets/2e624737-d516-4fa5-980e-b0dd672d650d" />
 
-```
+
 ### RESULT
 ```
 Thus, the Python program to find the absolute value of a given number using a function was successfully executed and verified.
@@ -130,10 +129,10 @@ print(f(i))
 
 ### OUTPUT
 
-```
+
 <img width="317" height="189" alt="image" src="https://github.com/user-attachments/assets/363a91b8-571c-4660-871c-7ab57c0bc7c1" />
 
-````
+
 ### RESULT
 ```
 Thus, the Python program to create a lambda function that takes z as a parameter and returns z * 2 was successfully executed and verified.
@@ -180,10 +179,10 @@ while i<=n:
 
 
 ### OUTPUT
-```
+
 <img width="542" height="492" alt="image" src="https://github.com/user-attachments/assets/ad178856-7cf7-4806-a184-8ede212cad31" />
 
-```
+
 ### RESULT
 ```
 Thus, the Python program to print alternate numbers from 1 to n was successfully executed and verified.
@@ -244,7 +243,7 @@ else:
     print("The given number {} is not a palindrome".format(num))
 ```
 ### OUTPUT
-```
+
 <img width="986" height="213" alt="image" src="https://github.com/user-attachments/assets/851412fb-0854-47d0-94cb-0e7ac08182bc" />
 
 
