@@ -85,10 +85,10 @@ def absolute_value(num):
 
 
 ### RESULT
-```
+
 Thus, the Python program to find the absolute value of a given number using a function was successfully executed and verified.
 
-```
+
 
 
 
@@ -134,10 +134,10 @@ print(f(i))
 
 
 ### RESULT
-```
+
 Thus, the Python program to create a lambda function that takes z as a parameter and returns z * 2 was successfully executed and verified.
 
-```
+
 
 
 
@@ -149,7 +149,7 @@ Thus, the Python program to create a lambda function that takes z as a parameter
 ###  Aim
 To write a Python program to print alternate numbers from 1 to n.
 
----
+
 
 ###  Algorithm
 
@@ -184,9 +184,9 @@ while i<=n:
 
 
 ### RESULT
-```
+
 Thus, the Python program to print alternate numbers from 1 to n was successfully executed and verified.
-```
+
 
 
 
@@ -197,7 +197,7 @@ Thus, the Python program to print alternate numbers from 1 to n was successfully
 ###  Aim
 To write a Python program to check whether the given number is a palindrome or not.
 
----
+
 
 ###  Algorithm
 Start the program.
@@ -249,7 +249,7 @@ else:
 
 ```
 ### RESULT
-```
+
 Thus, the Python program to check whether the given number is a palindrome was successfully executed and verified.
-```
+
 
